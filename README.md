@@ -420,10 +420,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Author**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: linkedin.com/in/yourprofile
-- **GitHub**: github.com/yourusername
+- **Project Author**: Prarthana Sumesh Panikar
+- **Email**: prarthanapanikar@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prarthana-panikar-930983370
+- **GitHub**: https://github.com/PrarthanaPanikar/
 
 ---
 
